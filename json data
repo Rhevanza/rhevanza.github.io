@@ -1,0 +1,3 @@
+<IfModule Mod_headers.c>
+    header set Access-Control-ALLow-Origin "*"
+ <If/Module>
